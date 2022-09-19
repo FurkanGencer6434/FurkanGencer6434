@@ -1,6 +1,6 @@
-- 👋 Hi, I’m FurkanGencer6434
+- 👋 Hi, I’m Furkan Gencer
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning JAVA programing language
+- 🌱 I’m currently learning JAVA programing language.
 - 📫 You can reach me by sending email to furkangencer@ug.bilkent.edu.tr
 
 <!---
