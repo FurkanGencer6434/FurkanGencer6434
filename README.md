@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Furkan Gencer.
+- 👋 Hi, I’m Furkan Gencer, a freshman at Bilkent University CS department.
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning JAVA programing language.
 - 📫 You can reach me by sending email to furkangencer@ug.bilkent.edu.tr
+
 
 <!---
 FurkanGencer6434/FurkanGencer6434 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
