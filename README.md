@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Furkan Gencer, a freshman at Bilkent University CS department.
+- 👋 Hi, I’m Furkan Gencer, an undergraduate  at Bilkent University CS department.
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning JAVA programing language.
 - 📫 You can reach me by sending email to furkangencer@ug.bilkent.edu.tr
